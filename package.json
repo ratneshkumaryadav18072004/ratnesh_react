@@ -1,0 +1,40 @@
+{
+  "name": "namste-javascript",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay Saini",
+  "keywords": [
+    "namste",
+    "react",
+    "ratnesh",
+    "kumar"
+  ],
+  "homepage": "https://github.com/ratneshkumaryadav18072004/ratnesh_react#readme",
+  "bugs": {
+    "url": "https://github.com/ratneshkumaryadav18072004/ratnesh_react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratneshkumaryadav18072004/ratnesh_react.git"
+  },
+  "license": "ISC",
+  "author": "Ratnesh Kumar",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-router-dom": "^6.30.1"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions",
+    "last 2 Safari versions"
+  ]
+}
